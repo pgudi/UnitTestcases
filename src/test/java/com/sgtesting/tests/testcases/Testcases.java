@@ -71,6 +71,11 @@ public class Testcases {
 	{
 		System.out.println("It is Method11 testcase Statement");
 	}
-	
+
+	@Test
+	public void method12()
+	{
+		System.out.println("It is Method12 testcase Statement");
+	}
 
 }
